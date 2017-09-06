@@ -8,6 +8,7 @@ namespace todolistwithauth.Models.AccountViewModels
 {
     public class LoginViewModel
     {
+        public string Name { get; set; }
         [Required]
         [EmailAddress]
         public string Email { get; set; }
