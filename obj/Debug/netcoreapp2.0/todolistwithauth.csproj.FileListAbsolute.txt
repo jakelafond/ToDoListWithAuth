@@ -1,0 +1,12 @@
+/Users/jacoblafond/dotnet/todolistwithauth/bin/Debug/netcoreapp2.0/app.db
+/Users/jacoblafond/dotnet/todolistwithauth/bin/Debug/netcoreapp2.0/todolistwithauth.deps.json
+/Users/jacoblafond/dotnet/todolistwithauth/bin/Debug/netcoreapp2.0/todolistwithauth.runtimeconfig.json
+/Users/jacoblafond/dotnet/todolistwithauth/bin/Debug/netcoreapp2.0/todolistwithauth.runtimeconfig.dev.json
+/Users/jacoblafond/dotnet/todolistwithauth/bin/Debug/netcoreapp2.0/todolistwithauth.dll
+/Users/jacoblafond/dotnet/todolistwithauth/bin/Debug/netcoreapp2.0/todolistwithauth.pdb
+/Users/jacoblafond/dotnet/todolistwithauth/obj/Debug/netcoreapp2.0/todolistwithauth.csproj.CoreCompileInputs.cache
+/Users/jacoblafond/dotnet/todolistwithauth/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/jacoblafond/dotnet/todolistwithauth/obj/Debug/netcoreapp2.0/todolistwithauth.AssemblyInfoInputs.cache
+/Users/jacoblafond/dotnet/todolistwithauth/obj/Debug/netcoreapp2.0/todolistwithauth.AssemblyInfo.cs
+/Users/jacoblafond/dotnet/todolistwithauth/obj/Debug/netcoreapp2.0/todolistwithauth.dll
+/Users/jacoblafond/dotnet/todolistwithauth/obj/Debug/netcoreapp2.0/todolistwithauth.pdb
